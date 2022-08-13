@@ -1,44 +1,18 @@
-## TalkLine
-
-
-
-## Welcome Screen!
-
-
-![1](https://user-images.githubusercontent.com/96062970/158422609-48976cc7-fa0a-4e36-9271-aec1e13af8e2.png)
 
 
 
 
-## Login Screen!
-
-![2](https://user-images.githubusercontent.com/96062970/158422720-30001a6d-9836-4dc8-9657-b5685821f60d.png)
-
-
-
-## Home Page!
-
-![3](https://user-images.githubusercontent.com/96062970/158423103-ba7a4658-6821-4383-8ff1-7cb66cd28d49.png)
-
-
-## Friends Posts! 
-
-
-![4](https://user-images.githubusercontent.com/96062970/158423249-6b6ab1d5-ba78-4beb-b43f-36e385f752e9.png)
-
-
-![5](https://user-images.githubusercontent.com/96062970/158423368-3f6bb8b5-47fb-4a65-b6b6-e0c5706f83b7.png)
-
-
-
-## Signup Screen!
-
-
-![6](https://user-images.githubusercontent.com/96062970/158422793-b21f824b-4b53-4b9c-8e2c-46640ac1ff29.png)
 
 
 
 
+
+<img width="342" alt="Screenshot 2022-08-13 at 1 16 31 PM" src="https://user-images.githubusercontent.com/90485362/184475440-a9454669-d842-4bff-b55e-dcef63c23ac9.png">
+<img width="342" alt="Screenshot 2022-08-13 at 1 16 48 PM" src="https://user-images.githubusercontent.com/90485362/184475447-2d69941c-646e-47a5-b4c3-f58d28587bd4.png">
+<img width="342" alt="Screenshot 2022-08-13 at 1 17 03 PM" src="https://user-images.githubusercontent.com/90485362/184475459-b286eb1d-42af-4ac9-b4e8-f07ddde84bb0.png">
+<img width="342" alt="Screenshot 2022-08-13 at 1 16 22 PM" src="https://user-images.githubusercontent.com/90485362/184475469-24b840fe-1617-4754-85e9-2a17aff77b8c.png">
+<img width="342" alt="Screenshot 2022-08-13 at 1 16 17 PM" src="https://user-images.githubusercontent.com/90485362/184475475-b2dc077b-9ae6-47d2-9017-7315a537a2e6.png">
+<img width="342" alt="Screenshot 2022-08-13 at 1 15 57 PM" src="https://user-images.githubusercontent.com/90485362/184475477-bb13c1be-df01-43ce-8201-587e61f75163.png">
 
 
 
